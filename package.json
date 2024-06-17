@@ -1,7 +1,7 @@
 {
   "name": "@hps/cache",
-  "version": "1.0.10",
-  "description": "",
+  "version": "1.0.0",
+  "description": "common package",
   "main": "lib/index.js",
   "type": "module",
   "typings": "lib/index.d.ts",
@@ -15,7 +15,7 @@
     "lib",
     "src"
   ],
-  "author": "",
+  "author": "hezihua",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-typescript": "^11.1.5",
